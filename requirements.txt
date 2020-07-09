@@ -1,0 +1,12 @@
+glob
+itertools
+gensim
+pickle
+abc
+sklearn
+scipy
+torch
+collections
+seaborn
+keras
+nltk
