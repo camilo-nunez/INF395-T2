@@ -31,4 +31,4 @@ leonardo.astudillov@sansano.usm.cl & camilo.nunezf@sansano.usm.cl
 * Para variar la cantidad de arcos, se debe modificar la la variable `data_child_array = truncate_list(data_child_array,x)` con `x` la cantidad de arcos necesarios, en su defecto, si se queire tener todos los arcos (ojo con la memoria), solo basta con comentar la linea.
 
 # Dependencias
-Se debe verificar que el `env` cuenta con las librerías solicatadas en el archivo `requirements.txt`, en el caso contrario, se debe ejecutar el comando `pip install -r requirements.txt`.
+Se debe verificar que el `env` cuenta con las librerías solicitadas en el archivo `requirements.txt`, en el caso contrario, se debe ejecutar el comando `pip install -r requirements.txt`.
