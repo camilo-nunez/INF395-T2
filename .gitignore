@@ -1,0 +1,12 @@
+*.pkl
+*.bin
+*.csv
+*.txt
+*.zip
+
+test/
+train/
+checkpoint/
+data_in/
+
+.ipynb_checkpoints/

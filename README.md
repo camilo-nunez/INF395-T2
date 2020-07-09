@@ -29,3 +29,6 @@ leonardo.astudillov@sansano.usm.cl & camilo.nunezf@sansano.usm.cl
 * Para ejecutar el word embeddinng se debe descomprimir el binario `twitter_w2v.bin` desde `.zip` del sigueinte [link](https://drive.google.com/file/d/10XFm40ELVhPILxiP9DvjOnQlyhcLlyo9/view?usp=sharing), en la raíz donde se encuentra el notebook.
 * Se debe cambiar el path principal en la variable `main_path`.
 * Para variar la cantidad de arcos, se debe modificar la la variable `data_child_array = truncate_list(data_child_array,x)` con `x` la cantidad de arcos necesarios, en su defecto, si se queire tener todos los arcos (ojo con la memoria), solo basta con comentar la linea.
+
+# Dependencias
+Se debe verificar que el `env` cuenta con las librerías solicatadas en el archivo `requirements.txt`, en el caso contrario, se debe ejecutar el comando `pip install -r requirements.txt`.
